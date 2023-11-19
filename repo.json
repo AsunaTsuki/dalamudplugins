@@ -4,7 +4,7 @@
     "Name": "PF Symbol Converter",
     "Description": "Converts text to symbols mostly for use in making party finders.\n\nUse [] around characters you want to be converted.\nYou can also do {} inside the brackets to make numbers appear circular instead of just square version.\n\nExample: /pfc [PGP Cyberpunk Night] Drinks [11pm-3am] EST",
     "InternalName": "PFSymbolConverter",
-    "AssemblyVersion": "0.5",
+    "AssemblyVersion": "0.6",
     "Changelog": "Initial release",
     "RepoUrl": "https://github.com/AsunaTsuki/PFSymbolConverter",
     "ApplicableVersion": "any",
