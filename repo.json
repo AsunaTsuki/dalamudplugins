@@ -4,7 +4,7 @@
     "Name": "PF Symbol Converter",
     "Description": "Automatically convert text to symbols for use in Party Finders",
     "InternalName": "PFSymbolConverter",
-    "AssemblyVersion": "0.2",
+    "AssemblyVersion": "0.3",
     "Changelog": "Initial release",
     "RepoUrl": "https://github.com/AsunaTsuki/PFSymbolConverter",
     "ApplicableVersion": "any",
@@ -18,8 +18,8 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.3/latest.zip"
   }
 ]
