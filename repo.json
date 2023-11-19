@@ -2,7 +2,7 @@
   {
     "Author": "Asuna",
     "Name": "PF Symbol Converter",
-    "Description": "Converts text to symbols mostly for use in making party finders./n/nAnything in brackets [] will be converted to symbols. If you have braces inside the brackets, any numbers will be converted to circle numbers./n/nSample command: /pfconvert [hi!] this is a [{123} test]",
+    "Description": "Converts text to symbols mostly for use in making party finders.",
     "InternalName": "PFSymbolConverter",
     "AssemblyVersion": "0.3",
     "Changelog": "Initial release",
