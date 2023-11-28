@@ -21,5 +21,29 @@
     "DownloadLinkInstall": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.6/latest.zip"
+  },
+  {
+    "Author": "Asuna",
+    "Name": "DynamicBridge",
+    "Description": "Bridges Glamourer and world conditions together. Allowing you to automatically switch outfits based on conditions",
+    "InternalName": "DynamicBridge",
+    "AssemblyVersion": "1.0",
+    "Changelog": "Initial release",
+    "RepoUrl": "https://github.com/AsunaTsuki/DynamicBridge",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Glam",
+      "Penumbra",
+      "Glamourer"
+    ],
+    "DalamudApiLevel": 9,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.0/latest.zip"
   }
 ]
