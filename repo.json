@@ -28,7 +28,7 @@
     "Description": "Bridges Glamourer and world conditions together. Allowing you to automatically switch outfits based on conditions",
     "InternalName": "DynamicBridge",
     "AssemblyVersion": "1.2",
-    "Changelog": "Should now revert to what you were wearing before it swapped when no rules apply./nRandom glamours introduced if multiple are selected for a rule/nBetter zone selection/nReapplying when the config window is opened should no longer happen",
+    "Changelog": "Should now revert to what you were wearing before it swapped when no rules apply.\nRandom glamours introduced if multiple are selected for a rule/nBetter zone selection\nReapplying when the config window is opened should no longer happen",
     "RepoUrl": "https://github.com/AsunaTsuki/DynamicBridge",
     "ApplicableVersion": "any",
     "Tags": [
