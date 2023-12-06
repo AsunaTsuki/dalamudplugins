@@ -27,7 +27,7 @@
     "Name": "DynamicBridge",
     "Description": "Bridges Glamourer and world conditions together. Allowing you to automatically switch outfits based on conditions",
     "InternalName": "DynamicBridge",
-    "AssemblyVersion": "1.3",
+    "AssemblyVersion": "1.3.1",
     "Changelog": "All features implemented for Glamourer",
     "RepoUrl": "https://github.com/AsunaTsuki/DynamicBridge",
     "ApplicableVersion": "any",
@@ -42,8 +42,8 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.1/latest.zip"
   }
 ]
