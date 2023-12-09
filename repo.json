@@ -27,7 +27,7 @@
     "Name": "DynamicBridge",
     "Description": "Bridges Glamourer and world conditions together. Allowing you to automatically switch outfits based on conditions",
     "InternalName": "DynamicBridge",
-    "AssemblyVersion": "1.3.2",
+    "AssemblyVersion": "1.3.2.1",
     "Changelog": "All features implemented for Glamourer",
     "RepoUrl": "https://github.com/AsunaTsuki/DynamicBridge",
     "ApplicableVersion": "any",
