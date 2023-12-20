@@ -4,8 +4,8 @@
     "Name": "PF Symbol Converter",
     "Description": "Converts text to symbols mostly for use in making party finders.\n\nUse [] around characters you want to be converted.\nYou can also do {} inside the brackets to make numbers appear circular instead of just square version.\n\nExample: /pfc [PGP Cyberpunk Night] Drinks [11pm-3am] EST",
     "InternalName": "PFSymbolConverter",
-    "AssemblyVersion": "0.6",
-    "Changelog": "Initial release",
+    "AssemblyVersion": "0.7",
+    "Changelog": "Added /cc command to send text directly to active chat channel",
     "RepoUrl": "https://github.com/AsunaTsuki/PFSymbolConverter",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,9 +18,9 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.6/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v0.7/latest.zip"
   },
   {
     "Author": "Asuna",
