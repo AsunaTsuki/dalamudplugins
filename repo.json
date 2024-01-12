@@ -27,8 +27,8 @@
     "Name": "DynamicBridge",
     "Description": "Bridges Glamourer and world conditions together. Allowing you to automatically switch outfits based on conditions",
     "InternalName": "DynamicBridge",
-    "AssemblyVersion": "1.3.5",
-    "Changelog": "Weather List is now consolidated, added biome icons to zone list",
+    "AssemblyVersion": "1.3.6",
+    "Changelog": "This version requires the new IPC code from glamourer, honorific, palette+, customize+ to work. Please install the testing verison of glamourer",
     "RepoUrl": "https://github.com/AsunaTsuki/DynamicBridge",
     "ApplicableVersion": "any",
     "Tags": [
@@ -42,8 +42,8 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.5/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.5/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.3.6/latest.zip"
   }
 ]
