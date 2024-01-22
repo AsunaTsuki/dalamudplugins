@@ -27,7 +27,7 @@
     "Name": "DynamicBridge",
     "Description": "Bridges Glamourer and world conditions together. Allowing you to automatically switch outfits based on conditions",
     "InternalName": "DynamicBridge",
-    "AssemblyVersion": "1.4.0",
+    "AssemblyVersion": "1.5.0",
     "Changelog": "This version requires the new IPC code from glamourer, honorific, palette+, customize+ to work. Please install the testing verison of glamourer",
     "RepoUrl": "https://github.com/AsunaTsuki/DynamicBridge",
     "ApplicableVersion": "any",
@@ -42,8 +42,8 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://cdn.discordapp.com/attachments/1133222063327420568/1197760188590075934/icon.png",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.4.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.4.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.4.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.5.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.5.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/DynamicBridge/releases/download/v1.5.0/latest.zip"
   }
 ]
