@@ -27,7 +27,7 @@
     "Name": "GambaTracker",
     "Description": "Keeps track of dealers location and party size",
     "InternalName": "GambaTracker",
-    "AssemblyVersion": "0.0.2",
+    "AssemblyVersion": "0.0.3",
     "Changelog": "Initial Upload",
     "RepoUrl": "https://github.com/AsunaTsuki/GambaTracker",
     "ApplicableVersion": "any",
@@ -41,9 +41,9 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.0.3/latest.zip"
   }
 ]
 
