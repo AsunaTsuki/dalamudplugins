@@ -27,7 +27,7 @@
     "Name": "GambaTracker",
     "Description": "Minx Dealer Tracker",
     "InternalName": "GambaTracker",
-    "AssemblyVersion": "0.1.3",
+    "AssemblyVersion": "0.1.4",
     "Changelog": "",
     "RepoUrl": "https://github.com/AsunaTsuki/GambaTracker",
     "ApplicableVersion": "any",
@@ -41,9 +41,9 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/AsunaTsuki/ignitevenue/main/minx.png",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.3/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.4/latest.zip"
   }
 ]
 
