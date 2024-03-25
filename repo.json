@@ -50,8 +50,8 @@
     "Name": "AutoMinion",
     "Description": "Automatically dismiss your minion when entering a house and summon it back when you leave",
     "InternalName": "AutoMinion",
-    "AssemblyVersion": "0.0.0.4",
-    "Changelog": "",
+    "AssemblyVersion": "0.0.0.5",
+    "Changelog": "Added Static Minion support per character",
     "RepoUrl": "https://github.com/AsunaTsuki/AutoMinion",
     "ApplicableVersion": "any",
     "Tags": [
@@ -64,9 +64,9 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/AsunaTsuki/AutoMinion/master/Data/morpho.jpg",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/AutoMinion/releases/download/v0.0.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/AutoMinion/releases/download/v0.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/AutoMinion/releases/download/v0.0.0.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/AutoMinion/releases/download/v0.0.0.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/AutoMinion/releases/download/v0.0.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/AutoMinion/releases/download/v0.0.0.5/latest.zip"
   }
 ]
 
