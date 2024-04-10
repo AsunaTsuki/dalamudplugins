@@ -27,8 +27,8 @@
     "Name": "GambaTracker",
     "Description": "Minx Dealer Tracker",
     "InternalName": "GambaTracker",
-    "AssemblyVersion": "0.1.7.1",
-    "Changelog": "",
+    "AssemblyVersion": "0.1.7.2",
+    "Changelog": "Added Debug mode for Admins",
     "RepoUrl": "https://github.com/AsunaTsuki/GambaTracker",
     "ApplicableVersion": "any",
     "Tags": [
@@ -41,9 +41,9 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/AsunaTsuki/ignitevenue/main/minx.png",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.2/latest.zip"
   },
   {
     "Author": "Asuna",
