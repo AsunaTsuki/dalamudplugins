@@ -27,7 +27,7 @@
     "Name": "GambaTracker",
     "Description": "Minx Dealer Tracker",
     "InternalName": "GambaTracker",
-    "AssemblyVersion": "0.1.7.4",
+    "AssemblyVersion": "0.1.7.5",
     "Changelog": "Updates approved dealers on launch now",
     "RepoUrl": "https://github.com/AsunaTsuki/GambaTracker",
     "ApplicableVersion": "any",
