@@ -27,7 +27,7 @@
     "Name": "GambaTracker",
     "Description": "Minx Dealer Tracker",
     "InternalName": "GambaTracker",
-    "AssemblyVersion": "0.1.7.7",
+    "AssemblyVersion": "1.0",
     "Changelog": "Added Bingo as a valid game type",
     "RepoUrl": "https://github.com/AsunaTsuki/GambaTracker",
     "ApplicableVersion": "any",
@@ -35,15 +35,15 @@
       "gamba",
       "tracker"
     ],
-    "DalamudApiLevel": 9,
+    "DalamudApiLevel": 10,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/AsunaTsuki/ignitevenue/main/minx.png",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.7/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v0.1.7.7/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.0/latest.zip"
   },
   {
     "Author": "Asuna",
