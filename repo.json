@@ -27,7 +27,7 @@
     "Name": "GambaTracker",
     "Description": "Dealer Tracker",
     "InternalName": "GambaTracker",
-    "AssemblyVersion": "1.2",
+    "AssemblyVersion": "1.3",
     "Changelog": "Few bug fixes.",
     "RepoUrl": "https://github.com/AsunaTsuki/GambaTracker",
     "ApplicableVersion": "any",
@@ -41,9 +41,9 @@
     "LastUpdated": 0,
     "DownloadCount": 0,
     "IconUrl": "https://raw.githubusercontent.com/AsunaTsuki/ignitevenue/main/Ignite.png",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/GambaTracker/releases/download/v1.3/latest.zip"
   },
   {
     "Author": "Asuna",
