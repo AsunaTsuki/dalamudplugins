@@ -24,6 +24,29 @@
   },
   {
     "Author": "Asuna",
+    "Name": "Shoutrunner",
+    "Description": "ShoutRunner",
+    "InternalName": "ShoutRunner",
+    "AssemblyVersion": "0.5.1",
+    "Changelog": "Few bug fixes.",
+    "RepoUrl": "https://github.com/AsunaTsuki/",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Shout",
+      "Shoutrunner"
+    ],
+    "DalamudApiLevel": 10,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/AsunaTsuki/dalamudplugins/releases/download/v0.5.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AsunaTsuki/dalamudplugins/releases/download/v0.5.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/dalamudplugins/releases/download/v0.5.1/latest.zip"
+  },
+  {
+    "Author": "Asuna",
     "Name": "GambaTracker",
     "Description": "Dealer Tracker",
     "InternalName": "GambaTracker",
