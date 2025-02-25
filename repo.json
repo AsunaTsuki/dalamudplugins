@@ -47,29 +47,6 @@
   },
   {
     "Author": "Asuna",
-    "Name": "KageTracker",
-    "Description": "Kage's Dealer Tracker",
-    "InternalName": "KageTracker",
-    "AssemblyVersion": "1.0",
-    "Changelog": "7.1 fixes",
-    "RepoUrl": "https://github.com/AsunaTsuki/KageTracker",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "gamba",
-      "tracker"
-    ],
-    "DalamudApiLevel": 11,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 0,
-    "DownloadCount": 0,
-    "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/KageTracker/releases/download/v1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/KageTracker/releases/download/v1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/KageTracker/releases/download/v1.0/latest.zip"
-  },
-  {
-    "Author": "Asuna",
     "Name": "AutoMinion",
     "Description": "Automatically dismiss your minion when entering a house and summon it back when you leave",
     "InternalName": "AutoMinion",
