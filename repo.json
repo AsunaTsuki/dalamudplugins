@@ -1,29 +1,6 @@
 [
   {
     "Author": "Asuna",
-    "Name": "PF Symbol Converter",
-    "Description": "Converts text to symbols mostly for use in making party finders.\n\nUse [] around characters you want to be converted.\nYou can also do {} inside the brackets to make numbers appear circular instead of just square version.\n\nExample: /pfc [PGP Cyberpunk Night] Drinks [11pm-3am] EST",
-    "InternalName": "PFSymbolConverter",
-    "AssemblyVersion": "1.1",
-    "Changelog": "7.3 fixes",
-    "RepoUrl": "https://github.com/AsunaTsuki/PFSymbolConverter",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "party finder",
-      "symbol"
-    ],
-    "DalamudApiLevel": 13,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 0,
-    "DownloadCount": 0,
-    "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/AsunaTsuki/PFSymbolConverter/releases/download/v1.1/latest.zip"
-  },
-  {
-    "Author": "Asuna",
     "Name": "GambaTracker",
     "Description": "Dealer Tracker",
     "InternalName": "GambaTracker",
